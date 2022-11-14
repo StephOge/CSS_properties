@@ -1,0 +1,19 @@
+div {
+    margin: 10px;
+    border: 40px;
+    padding: 20px;
+}
+#list {
+    list-style: lower-roman;
+    margin: 10px;
+}
+.dislikes {
+    list-style-type: square;
+    margin: 10px;
+}
+p {
+    font-size: 20px;
+}
+#parent {
+    background-color: aqua;
+}
